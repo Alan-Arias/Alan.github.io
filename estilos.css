@@ -65,6 +65,9 @@ nav {
     ul {
       margin-top: 20px;
     }
+      .video-ssth1 iframe{
+      width: 400px;
+    }
   }
 
 .video-ssth1{
